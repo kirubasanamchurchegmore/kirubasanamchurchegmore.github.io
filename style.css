@@ -14,5 +14,7 @@ ta {
 }
 
 body {
-    font-size: 1em
+    font-size: 1em;
+    border: 3px solid brown;
 }
+
