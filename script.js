@@ -5,5 +5,5 @@ window.mobileCheck = function() {
 }
 
 if (check == true) {
-    window.location.href = "";
+    window.location.href = "https://kirubasanamchurchegmore.github.io/m/";
 }
