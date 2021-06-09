@@ -1,9 +1,6 @@
 alert("Working Successfully")
+window.location.href = "https://kirubasanamchurchegmore.github.io/m/";
 
-function detectMob() {
-    return ( ( window.innerWidth <= 800 ) && ( window.innerHeight <= 600 ) );
-  }
-
-if (detectMob() == true) {
+if ( ( window.innerWidth <= 800 ) && ( window.innerHeight <= 600 ) ) {
     window.location.href = "https://kirubasanamchurchegmore.github.io/m/";
 }
