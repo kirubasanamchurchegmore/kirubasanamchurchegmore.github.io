@@ -58,14 +58,14 @@ a.login, a.login:visited{
     background-color: #000ba3;
     padding: 1vw;
     border-spacing: 10px;
-    border-radius: 20px;
+    border-radius: 1vw;
 }
 
 .tabs {
     text-align: center;
     background-color: #ffffff;
     padding: 1vw;
-    border-radius: 20px;
+    border-radius: 1vw;
     text-decoration: none;
     text-transform: uppercase;
     transition: box-shadow 0.3s ease-in-out;
@@ -85,7 +85,7 @@ a.login, a.login:visited{
 
 div.text, div.texti {
     background-color: white;
-    border-radius: 20px;
+    border-radius: 1vw;
     padding: 20px;
 }
 
