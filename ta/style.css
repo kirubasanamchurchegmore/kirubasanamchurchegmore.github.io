@@ -1,5 +1,5 @@
 body {
-    font-family: 'Inter';
+    font-family: 'Hind Madurai';
     background-color: #70c1ff;
     color:#000000;
 }
@@ -24,7 +24,7 @@ td.title{
     font-family: "Anek Tamil";
 }
 
-.en1 {
+.en1, en1 {
     font-family: "Inter";
 }
 
