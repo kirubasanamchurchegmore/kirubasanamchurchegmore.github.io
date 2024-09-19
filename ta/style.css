@@ -85,6 +85,15 @@ a.login, a.login:visited{
     color: rgb(0, 0, 0)
 }
 
+.link1 {
+    text-decoration: none;
+    color: rgb(0, 0, 0)
+}
+
+.link1:hover {
+    text-decoration: underline;
+}
+
 div.text, div.texti {
     background-color: rgb(0, 0, 0);
     border-radius: 10px;
