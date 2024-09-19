@@ -69,8 +69,8 @@ a.link:hover {
 }
 
 img {
-    border: 1em white solid;
-    border-radius: 25px;
+    border: 0.25em white solid;
+    border-radius: 10px;
 }
 
 h2 {
