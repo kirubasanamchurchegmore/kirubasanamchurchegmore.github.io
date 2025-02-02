@@ -27,24 +27,24 @@ body {
     font-family: 'Lexend';
     font-size: 1em;
     margin: 2em;
-    background-color: #00245E;
+    background-color: #ffd734ff;
     text-align: center;
 }
 
 div.title {
     font-size: 1.25em;
-    color: #1AC8ED;
-    text-shadow: 5px 0px 5px black;
+    color: #b6006e;
+    text-shadow: 0px 0px 10px rgb(255, 255, 255);
 }
 
 div.links {
     font-size: 1.1em;
     padding: 0.75em;
-    color: rgb(255, 255, 255)
+    color: #b6006e
 }
 
 a:visited, a {
-    color: rgb(243, 255, 246);
+    color: #b6006e;
     text-decoration: none;
     font-weight: bold;  
 }
